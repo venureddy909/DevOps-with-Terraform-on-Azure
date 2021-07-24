@@ -1,6 +1,9 @@
 # Local .terraform directories
 **/.terraform/*
 
+#AZ-CLI Test
+.az-cli.txt
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
